@@ -107,7 +107,6 @@ export default function Main() {
               </div>
               <div className='divButtons'>
                 <Button icone={linkedin} texto={"LinkedIn"} link={"https://www.linkedin.com/in/lyslenmiranda"}/>
-                <Button icone={baixar} texto={"Currículo"} link={"src/pdf/Currículo-Lyslen.pdf"}/>
               </div>
             </div>
           </div>
