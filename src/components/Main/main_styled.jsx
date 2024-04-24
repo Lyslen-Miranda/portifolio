@@ -317,6 +317,7 @@ export const SectionProjetos = styled.section`
     @media (max-width: 1000px) and (min-width: 501px){
         h2 {
         font-size: 26px;
+        margin-bottom: 18px;
         }
     }
 
